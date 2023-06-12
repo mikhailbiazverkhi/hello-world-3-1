@@ -12,14 +12,6 @@ Sous-titre
 
 ## Sous-titre alternatif
 
-Les paragraphes sont séparés
-par une ligne laissée vide
-
-Deux espaces à la fin d'une ligne produisent
-un saut de ligne.
-Les caractères _italiques_, **gras**, `à taille fixe`.
-
-Filet:
 
 ---
 Liste à puces imbriquée dans une liste ordonnée:
